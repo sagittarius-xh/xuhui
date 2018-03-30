@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_area">area</string>
+    <string name="title_activity_angle">angle</string>
+    <string name="title_activity_speed">speed</string>
+    <string name="title_activity_system">system</string>
+</resources>
